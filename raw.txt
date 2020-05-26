@@ -1,0 +1,9 @@
+114, oreo, cupcake
+112, oreo, cake
+110, dark chocolate, meatloaf
+114, smores, pie
+124, oreo, smores
+123, dark chocolate, pie
+345, cupcake, pie, dark chocolate
+858, chocolate, meatloaf, pie
+999, cake, meatloaf, pie
