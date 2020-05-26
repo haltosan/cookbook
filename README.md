@@ -6,7 +6,7 @@ This is a tool for searching a cookbook for recipes containing tags. It spits ou
 
 ## Requirements
  - Python
- - (Termcolor)[https://pypi.org/project/termcolor/] python package
+ - [Termcolor](https://pypi.org/project/termcolor/) python package
 
 Term color isn't needed, but you'll have to modify the output everywhere
 
